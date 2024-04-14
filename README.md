@@ -1,4 +1,3 @@
-# Random-Forest-Classifier-using-Scikit-learn-to-predict-Dog-lover-vs-Cat-lover
 
 Predicting if a person likes Dogs or Cats
 
