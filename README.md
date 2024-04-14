@@ -10,7 +10,7 @@ Survey Questions
 -	Do you like running?
 -	What is your favorite color?
 -	How many miles do you walk in a day
-A data file that contains answers to above questions are given in the .csv file.
+A data file that contains answers to the above questions is given in the .csv file.
 
 Contents
 - `random_forest_classifier.ipynb`: Jupyter Notebook containing the code and explanation of the Random Forest Classifier implementation.
@@ -21,7 +21,7 @@ To run the notebook locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Install Jupyter Notebook if not already installed: `pip install notebook`
 3. Navigate to the directory containing the notebook.
-4. Run `jupyter notebook` command to start the Jupyter server.
+4. Run `Jupyter Notebook` command to start the Jupyter server.
 5. Access the notebook in your web browser and execute the cells to observe the implementation.
 
 Usage on AWS SageMaker
@@ -53,7 +53,7 @@ Make a prediction for Yourself
 
 Dependencies
 The following Python libraries are required to run the notebook:
-- numpy
+- NumPy
 - pandas
 - matplotlib
 - seaborn
@@ -65,5 +65,6 @@ Key Features of scikit-learn:
 - Built on NumPy, SciPy, and matplotlib.
 - Open source and commercially usable under the BSD license.
 
-Scikit-learn is designed to be user-friendly, with a consistent API and extensive documentation. It's widely used in academia and industry for tasks ranging from simple data analysis to complex machine learning models.
-![image](https://github.com/sumansatyal/Random-Forest-Classifier-using-Scikit-learn-to-predict-Dog-lover-vs-Cat-lover/assets/60155963/deb55d29-86bb-4239-a6a4-6d292c33b904)
+Scikit-learn is designed to be user-friendly, with a consistent API and extensive documentation. It's widely used in academia and industry for tasks ranging from simple data analysis to complex machine-learning models.
+
+This lab was a part of the certification course in a cloud guru.
