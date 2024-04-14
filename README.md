@@ -9,6 +9,7 @@ Survey Questions
 -	Do you like running?
 -	What is your favorite color?
 -	How many miles do you walk in a day
+  
 A data file that contains answers to the above questions is given in the .csv file.
 
 Contents
